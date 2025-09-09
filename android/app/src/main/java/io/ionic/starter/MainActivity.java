@@ -1,4 +1,4 @@
-package io.qinaya.khan;
+package io.ionic.starter;
 
 import com.getcapacitor.BridgeActivity;
 

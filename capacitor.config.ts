@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.qinaya.khan',
+  appId: 'io.ionic.starter',
   appName: 'KhanAPP',
   webDir: 'dist'
 };
