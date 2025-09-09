@@ -1,0 +1,7 @@
+{
+  "name": "KhanAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
